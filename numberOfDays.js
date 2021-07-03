@@ -1,4 +1,4 @@
-month = 10;
+month = parseInt(prompt("Enter the number of Month"));
 function numberOfDays(month) {
   n = 0;
   switch (month) {
